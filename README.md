@@ -11,4 +11,10 @@ bad1 - fixed
 
 5th
 
-bad2
+bad2 - fixed
+
+6th
+
+7th
+
+8th
